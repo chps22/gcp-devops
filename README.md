@@ -1,2 +1,0 @@
-# gcp-devops
-# gcp-devops
